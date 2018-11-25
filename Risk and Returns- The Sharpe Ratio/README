@@ -1,6 +1,5 @@
 - The project will show you how much money you could make but also at how much risk you are taking when you assess whether to invest in an asset
-- I use the Sharpe ratio technique (it compares the return of an investment to that of an alternative and relates the relative return to the risk of the investment, measured by the standard deviation of returns.
-) along Python/Pandas on real financial data.
+- I use the Sharpe ratio technique (it compares the return of an investment to that of an alternative and relates the relative return to the risk of the investment, measured by the standard deviation of returns) along Python/Pandas on real financial data.
 - Project tasks:
 1. Loadind the data from /dataset/
 2. Plot & summarize daily prices for Amazon and Facebook
