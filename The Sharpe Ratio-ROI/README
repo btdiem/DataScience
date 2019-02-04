@@ -1,5 +1,6 @@
 
 - The challenge & dataset are published by Datacamp
+- Requiremnts: Python >= 2.7, Pandas library
 - Plot & summarize daily prices for Amazon and Facebook
 - Visualize & summarize daily values for the S&P 500
 - Calculating Excess Returns for Amazon and Facebook vs. S&P 500
